@@ -7,7 +7,7 @@
 // @include      https://vk.com/*
 // @include      https://m.vk.com/*
 // @include      https://pvv4.vkuservideo.net/*
-// @license MIT
+// @license      MIT
 // ==/UserScript==
 
 
