@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         VK video download
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/DaniilAfendulov/VK-video-dowload
 // @version      0.1
 // @description  Позволяет скачивать видео из вк, даже если это видео переслали вам сообщением из закрытой группы. Кнопка скачать появляется при нажатии правой кнопки мыши на видео
 // @author       Daniil Afendulov
